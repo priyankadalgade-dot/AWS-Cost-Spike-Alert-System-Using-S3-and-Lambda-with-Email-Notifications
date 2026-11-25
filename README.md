@@ -1,2 +1,2 @@
 # AWS-Cost-Spike-Alert-System-Using-S3-and-Lambda-with-Email-Notifications
-AWS serverless project to monitor cloud cost data using Amazon S3, AWS Lambda, and automated email notifications to detect unexpected cost spikes.
+Built a serverless AWS Cost Spike Alert System using Amazon S3, AWS Lambda, Python, and Amazon SNS. Implemented event-driven automation to process uploaded CSV cost data, detect cost threshold violations, and send automated email notifications.
