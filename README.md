@@ -42,13 +42,14 @@ The following diagram illustrates the workflow of the AWS Cost Spike Alert Syste
 
 ## 📂 Project Structure
 
-
+```text
 AWS-Cost-Spike-Alert-System/
 │
 ├── lambda_handler.py
 ├── AWS_Cost_and_Usage_Practice.xlsx
 ├── AWS Cost Spike Alert System.png
 └── README.md
+```
 
 
 ### File Description
@@ -58,13 +59,7 @@ AWS-Cost-Spike-Alert-System/
 - AWS Cost Spike Alert System.png: AWS architecture diagram.
 - README.md: Project documentation.
 
-## 🔐 Security Best Practices
 
-- Follow the principle of least privilege when configuring IAM roles.
-- Avoid hardcoding AWS credentials in Python code.
-- Restrict access to S3 buckets.
-- Use appropriate IAM permissions for Lambda and SNS.
-- Monitor Lambda execution through CloudWatch logs.
 
 ## 🎯 Key Learnings
 
